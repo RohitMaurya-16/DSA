@@ -1,7 +1,7 @@
 class Solution {
     public List<String> letterCombinations(String digits) {
         // Handle edge case: if input is empty, return an empty list immediately
-        if (digits.isEmpty()) return new ArrayList<>();
+         if (digits.isEmpty()) return new ArrayList<>();   // This line is not neccessary to understand..
 
         // 1. Initialize result list with an empty string to start the combinations
         List<String> result = new ArrayList<>();
