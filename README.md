@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/RohitMaurya-16/DSA/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/RohitMaurya-16/DSA/tree/master/0881-boats-to-save-people) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RohitMaurya-16/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/RohitMaurya-16/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/RohitMaurya-16/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0518-coin-change-ii) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RohitMaurya-16/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Memoization
 |  |
 | ------- |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/RohitMaurya-16/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RohitMaurya-16/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/RohitMaurya-16/DSA/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RohitMaurya-16/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 <!---LeetCode Topics End-->
