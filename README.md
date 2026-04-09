@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RohitMaurya-16/DSA/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/RohitMaurya-16/DSA/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/RohitMaurya-16/DSA/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/RohitMaurya-16/DSA/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/RohitMaurya-16/DSA/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/RohitMaurya-16/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/RohitMaurya-16/DSA/tree/master/0198-house-robber) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RohitMaurya-16/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/RohitMaurya-16/DSA/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/RohitMaurya-16/DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/RohitMaurya-16/DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/RohitMaurya-16/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/RohitMaurya-16/DSA/tree/master/0198-house-robber) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RohitMaurya-16/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/RohitMaurya-16/DSA/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/RohitMaurya-16/DSA/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/RohitMaurya-16/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/RohitMaurya-16/DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -115,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RohitMaurya-16/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/RohitMaurya-16/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/RohitMaurya-16/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
