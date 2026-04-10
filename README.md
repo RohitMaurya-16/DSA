@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/RohitMaurya-16/DSA/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/RohitMaurya-16/DSA/tree/master/0881-boats-to-save-people) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RohitMaurya-16/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/RohitMaurya-16/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RohitMaurya-16/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RohitMaurya-16/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0347-top-k-frequent-elements](https://github.com/RohitMaurya-16/DSA/tree/master/0347-top-k-frequent-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/RohitMaurya-16/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Divide and Conquer
 |  |
 | ------- |
