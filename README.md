@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/RohitMaurya-16/DSA/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/RohitMaurya-16/DSA/tree/master/0881-boats-to-save-people) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/RohitMaurya-16/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RohitMaurya-16/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/RohitMaurya-16/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
