@@ -8,14 +8,12 @@ class Solution {
         int[] curr = intervals[0];
         merged.add(curr); 
          
-        for (int[] next : intervals) {
-            int currEnd = curr[1];
-            int nextStart = next[0];
-            int nextEnd = next[1];
+        for (int i = 1; i < intervals.length; i++) {
+            int[] next = intervals[i]; 
             
-            if (currEnd >= nextStart) {
+            if (curr[1] >= next[0]) {
                 
-                curr[1] = Math.max(currEnd, nextEnd);
+                curr[1] = Math.max(curr[1], next[1]);
             } else {
                 
                 curr = next;
