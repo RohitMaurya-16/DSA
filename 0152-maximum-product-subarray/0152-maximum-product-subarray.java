@@ -1,6 +1,6 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        if (nums == null || nums.length == 0) return 0;
+       // if (nums == null || nums.length == 0) return 0;
 
         int maxSoFar = nums[0];
         int minSoFar = nums[0];
