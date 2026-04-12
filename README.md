@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RohitMaurya-16/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RohitMaurya-16/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/RohitMaurya-16/DSA/tree/master/0022-generate-parentheses) |
+| [0065-valid-number](https://github.com/RohitMaurya-16/DSA/tree/master/0065-valid-number) |
 | [0344-reverse-string](https://github.com/RohitMaurya-16/DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/RohitMaurya-16/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
