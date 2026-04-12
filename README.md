@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RohitMaurya-16/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RohitMaurya-16/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/RohitMaurya-16/DSA/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/RohitMaurya-16/DSA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/RohitMaurya-16/DSA/tree/master/0189-rotate-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/RohitMaurya-16/DSA/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/RohitMaurya-16/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/RohitMaurya-16/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/RohitMaurya-16/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/RohitMaurya-16/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/RohitMaurya-16/DSA/tree/master/0455-assign-cookies) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/RohitMaurya-16/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/RohitMaurya-16/DSA/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/RohitMaurya-16/DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/RohitMaurya-16/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/RohitMaurya-16/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RohitMaurya-16/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/RohitMaurya-16/DSA/tree/master/0344-reverse-string) |
