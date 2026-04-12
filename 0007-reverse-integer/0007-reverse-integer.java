@@ -1,9 +1,9 @@
 class Solution {
-    public int reverse(int x) {
+    public int reverse(long x) {
      
      boolean neg=x<0;    // -123   true
      
-     long val=Math.abs((long)x);
+     long val=Math.abs(x);
      String s=Long.toString(val);
      char ch[] = s.toCharArray();
 
