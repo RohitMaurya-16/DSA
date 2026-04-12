@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/RohitMaurya-16/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/RohitMaurya-16/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0518-coin-change-ii) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/RohitMaurya-16/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RohitMaurya-16/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Memoization
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/RohitMaurya-16/DSA/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/RohitMaurya-16/DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/RohitMaurya-16/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 ## Matrix
 |  |
 | ------- |
