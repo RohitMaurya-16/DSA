@@ -25,16 +25,11 @@ class Solution {
     q.size()--> length if queue
     q.isEmpty()--> Check you queue is empty or not
   */
-    List<List<Integer>> mainList = new ArrayList<>();
-    if(root==null) return mainList;
-
-    // list.add(root.val);
-    // mainList.add(list);
-    // // levelOrder(root.val);
-
-    // return mainList;
+//     List<List<Integer>> mainList = new ArrayList<>();
+//     if(root==null) return mainList;
 
 //     Queue<TreeNode> q = new LinkedList<>();
+
 //     q.add(root);
 //     while(!q.isEmpty()){
 //      int n=q.size();
@@ -58,30 +53,42 @@ class Solution {
 //     }
 // }
 
-   Queue<TreeNode> q=new LinkedList<>();
-   q.add(root);
 
-   while(!q.isEmpty())
-   {
-    List<Integer> list=new ArrayList<>();
+
+// Other approach to avoid repeat use of peek()
+
+List<List<Integer>> m=new ArrayList<>();
+
+Queue<TreeNode> q=new LinkedList<>();
+if(root==null)return m;
+q.offer(root);      // You can use .offer() in palace of .add();
+
+while(!q.isEmpty())
+{
     int n=q.size();
+    List<Integer> list=new ArrayList<>();
     for(int i=0;i<n;i++)
     {
-        if(q.peek().left!=null)
-        {
-            q.add(q.peek().left);
-        }
+     TreeNode node=q.poll(); 
+      
+     list.add(node.val);
 
-        if(q.peek().right!=null)
-        {
-            q.add(q.peek().right);
-        }
-        list.add(q.poll().val);
+     if(node.left!=null) 
+     {
+        q.offer(node.left);
+     }
+
+     if(node.right!=null) 
+     {
+        q.offer(node.right);
+     }
+     
     }
-    mainList.add(list);
-   }
-   return mainList;
+    m.add(list);
+}
+  return m;
     }
 }
+
 
  
