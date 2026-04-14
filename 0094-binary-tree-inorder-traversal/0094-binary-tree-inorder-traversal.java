@@ -17,14 +17,14 @@ class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> list=new ArrayList<>();
             inorder( root,list);
-    return list;
+            return list;
     }
-            void inorder(TreeNode root, List<Integer> list)
+            void inorder(TreeNode root, List<Integer> list)   // I made this method to avoid creation is list each time....
             {
-            if(root==null) return ;
+            if(root==null) return ;      // if root node will be empty then it will return nothing 
 
-            if(root.left!=null) inorder(root.left,list);
-            list.add(root.val);
-            if(root.right!=null) inorder(root.right,list);
+            if(root.left!=null) inorder(root.left,list);   // for left check
+            list.add(root.val);  // use to add val of node in list
+            if(root.right!=null) inorder(root.right,list);    // right check
             }
 }
