@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/RohitMaurya-16/DSA/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/RohitMaurya-16/DSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/RohitMaurya-16/DSA/tree/master/0881-boats-to-save-people) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/RohitMaurya-16/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RohitMaurya-16/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RohitMaurya-16/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/RohitMaurya-16/DSA/tree/master/1512-number-of-good-pairs) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RohitMaurya-16/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RohitMaurya-16/DSA/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/RohitMaurya-16/DSA/tree/master/0279-perfect-squares) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/RohitMaurya-16/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/RohitMaurya-16/DSA/tree/master/1512-number-of-good-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/RohitMaurya-16/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
