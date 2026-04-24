@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/RohitMaurya-16/DSA/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/RohitMaurya-16/DSA/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/RohitMaurya-16/DSA/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/RohitMaurya-16/DSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/RohitMaurya-16/DSA/tree/master/0881-boats-to-save-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RohitMaurya-16/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -221,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/RohitMaurya-16/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RohitMaurya-16/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RohitMaurya-16/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/RohitMaurya-16/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
