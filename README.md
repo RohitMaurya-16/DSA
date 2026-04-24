@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/RohitMaurya-16/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RohitMaurya-16/DSA/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/RohitMaurya-16/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/RohitMaurya-16/DSA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/RohitMaurya-16/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RohitMaurya-16/DSA/tree/master/0198-house-robber) |
@@ -226,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/RohitMaurya-16/DSA/tree/master/0724-find-pivot-index) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/RohitMaurya-16/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
