@@ -1,21 +1,25 @@
 class Solution {
     public int peakIndexInMountainArray(int[] nums) {
-         int n=nums.length;
-        
-        if(n==2 && nums[0]>nums[1])
+        int n=nums.length;
+        int low=0;
+        int high=n-1;
+        int mid=0;
+       // int max=0;
+        while(low<high)
         {
-            return 0;
+            mid=low+(high-low)/2;
+           
+            if(nums[mid]>nums[mid+1])  // i am in decreasing part of the array max peak should be in left
+            {
+            high=mid;   //  why not high=mid-1 bcz may be mid is a answer and its is p peak element.
+          
+            }
+           else  //  i am in increasing part of array answer should be in right side
+            {
+                low=mid+1;   // mid+1>mid thats why low=mid+1 as a start of new array
+            }
+            // at the end mid and start element will be same
         }
-        if(n==2 && nums[0]<nums[1])
-        {
-            return 1;
-        }
-        
-        for(int i=1;i<n-1;i++)
-        {
-            if(nums[i]>nums[i-1] && nums[i]>nums[i+1])
-            return i;
-        }
-        return 0;
+        return low;
     }
 }
