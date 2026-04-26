@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/RohitMaurya-16/DSA/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/RohitMaurya-16/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/RohitMaurya-16/DSA/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/RohitMaurya-16/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/RohitMaurya-16/DSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/RohitMaurya-16/DSA/tree/master/0881-boats-to-save-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RohitMaurya-16/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/RohitMaurya-16/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/RohitMaurya-16/DSA/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/RohitMaurya-16/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Backtracking
 |  |
 | ------- |
