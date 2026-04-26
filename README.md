@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/RohitMaurya-16/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/RohitMaurya-16/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/RohitMaurya-16/DSA/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/RohitMaurya-16/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/RohitMaurya-16/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RohitMaurya-16/DSA/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/RohitMaurya-16/DSA/tree/master/0217-contains-duplicate) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/RohitMaurya-16/DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/RohitMaurya-16/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/RohitMaurya-16/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RohitMaurya-16/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
