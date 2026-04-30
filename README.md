@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RohitMaurya-16/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RohitMaurya-16/DSA/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/RohitMaurya-16/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/RohitMaurya-16/DSA/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/RohitMaurya-16/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/RohitMaurya-16/DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/RohitMaurya-16/DSA/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/RohitMaurya-16/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RohitMaurya-16/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RohitMaurya-16/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RohitMaurya-16/DSA/tree/master/0189-rotate-array) |
