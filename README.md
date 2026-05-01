@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RohitMaurya-16/DSA/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/RohitMaurya-16/DSA/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/RohitMaurya-16/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/RohitMaurya-16/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/RohitMaurya-16/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0045-jump-game-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/RohitMaurya-16/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/RohitMaurya-16/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RohitMaurya-16/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RohitMaurya-16/DSA/tree/master/0162-find-peak-element) |
