@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RohitMaurya-16/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RohitMaurya-16/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/RohitMaurya-16/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/RohitMaurya-16/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/RohitMaurya-16/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RohitMaurya-16/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/RohitMaurya-16/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/RohitMaurya-16/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RohitMaurya-16/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RohitMaurya-16/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/RohitMaurya-16/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/RohitMaurya-16/DSA/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/RohitMaurya-16/DSA/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/RohitMaurya-16/DSA/tree/master/0342-power-of-four) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RohitMaurya-16/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/RohitMaurya-16/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/RohitMaurya-16/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/RohitMaurya-16/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/RohitMaurya-16/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/RohitMaurya-16/DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/RohitMaurya-16/DSA/tree/master/0455-assign-cookies) |
