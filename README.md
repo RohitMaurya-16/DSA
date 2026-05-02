@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/RohitMaurya-16/DSA/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/RohitMaurya-16/DSA/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/RohitMaurya-16/DSA/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/RohitMaurya-16/DSA/tree/master/0788-rotated-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RohitMaurya-16/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/RohitMaurya-16/DSA/tree/master/1512-number-of-good-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/RohitMaurya-16/DSA/tree/master/3783-mirror-distance-of-an-integer) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/RohitMaurya-16/DSA/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/RohitMaurya-16/DSA/tree/master/0396-rotate-function) |
 | [0518-coin-change-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0518-coin-change-ii) |
+| [0788-rotated-digits](https://github.com/RohitMaurya-16/DSA/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/RohitMaurya-16/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RohitMaurya-16/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Memoization
