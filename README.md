@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/RohitMaurya-16/DSA/tree/master/0065-valid-number) |
 | [0344-reverse-string](https://github.com/RohitMaurya-16/DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/RohitMaurya-16/DSA/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/RohitMaurya-16/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/RohitMaurya-16/DSA/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2833-furthest-point-from-origin](https://github.com/RohitMaurya-16/DSA/tree/master/2833-furthest-point-from-origin) |
@@ -300,4 +301,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RohitMaurya-16/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/RohitMaurya-16/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
