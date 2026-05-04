@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/RohitMaurya-16/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/RohitMaurya-16/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/RohitMaurya-16/DSA/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/RohitMaurya-16/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RohitMaurya-16/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/RohitMaurya-16/DSA/tree/master/0066-plus-one) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/RohitMaurya-16/DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/RohitMaurya-16/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/RohitMaurya-16/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/RohitMaurya-16/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RohitMaurya-16/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RohitMaurya-16/DSA/tree/master/0070-climbing-stairs) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RohitMaurya-16/DSA/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/RohitMaurya-16/DSA/tree/master/1672-richest-customer-wealth) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RohitMaurya-16/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Stack
