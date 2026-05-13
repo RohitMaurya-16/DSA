@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/RohitMaurya-16/DSA/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RohitMaurya-16/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/RohitMaurya-16/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1914-cyclically-rotating-a-grid](https://github.com/RohitMaurya-16/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/RohitMaurya-16/DSA/tree/master/1929-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/RohitMaurya-16/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2951-find-the-peaks](https://github.com/RohitMaurya-16/DSA/tree/master/2951-find-the-peaks) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/RohitMaurya-16/DSA/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/RohitMaurya-16/DSA/tree/master/1672-richest-customer-wealth) |
+| [1914-cyclically-rotating-a-grid](https://github.com/RohitMaurya-16/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RohitMaurya-16/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Stack
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/RohitMaurya-16/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/RohitMaurya-16/DSA/tree/master/1929-concatenation-of-array) |
 ## String Matching
 |  |
