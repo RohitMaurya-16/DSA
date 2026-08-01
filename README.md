@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/RohitMaurya-16/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/RohitMaurya-16/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/RohitMaurya-16/DSA/tree/master/0396-rotate-function) |
+| [0414-third-maximum-number](https://github.com/RohitMaurya-16/DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/RohitMaurya-16/DSA/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/RohitMaurya-16/DSA/tree/master/0605-can-place-flowers) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RohitMaurya-16/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RohitMaurya-16/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/RohitMaurya-16/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/RohitMaurya-16/DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/RohitMaurya-16/DSA/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/RohitMaurya-16/DSA/tree/master/0881-boats-to-save-people) |
 ## Heap (Priority Queue)
