@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/RohitMaurya-16/DSA/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/RohitMaurya-16/DSA/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/RohitMaurya-16/DSA/tree/master/0396-rotate-function) |
+| [0507-perfect-number](https://github.com/RohitMaurya-16/DSA/tree/master/0507-perfect-number) |
 | [0788-rotated-digits](https://github.com/RohitMaurya-16/DSA/tree/master/0788-rotated-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RohitMaurya-16/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/RohitMaurya-16/DSA/tree/master/1512-number-of-good-pairs) |
