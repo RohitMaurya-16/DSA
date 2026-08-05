@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/RohitMaurya-16/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/RohitMaurya-16/DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/RohitMaurya-16/DSA/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/RohitMaurya-16/DSA/tree/master/0912-sort-an-array) |
 | [1095-find-in-mountain-array](https://github.com/RohitMaurya-16/DSA/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RohitMaurya-16/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RohitMaurya-16/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/RohitMaurya-16/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RohitMaurya-16/DSA/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/RohitMaurya-16/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/RohitMaurya-16/DSA/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -89,14 +91,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/RohitMaurya-16/DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/RohitMaurya-16/DSA/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/RohitMaurya-16/DSA/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/RohitMaurya-16/DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RohitMaurya-16/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/RohitMaurya-16/DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RohitMaurya-16/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/RohitMaurya-16/DSA/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -338,4 +343,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/RohitMaurya-16/DSA/tree/master/1952-three-divisors) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RohitMaurya-16/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RohitMaurya-16/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RohitMaurya-16/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
