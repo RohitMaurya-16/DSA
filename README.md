@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/RohitMaurya-16/DSA/tree/master/0788-rotated-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RohitMaurya-16/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/RohitMaurya-16/DSA/tree/master/1512-number-of-good-pairs) |
+| [1952-three-divisors](https://github.com/RohitMaurya-16/DSA/tree/master/1952-three-divisors) |
 | [3783-mirror-distance-of-an-integer](https://github.com/RohitMaurya-16/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/RohitMaurya-16/DSA/tree/master/1952-three-divisors) |
 | [2951-find-the-peaks](https://github.com/RohitMaurya-16/DSA/tree/master/2951-find-the-peaks) |
 ## Interactive
 |  |
@@ -324,4 +326,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/RohitMaurya-16/DSA/tree/master/0061-rotate-list) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/RohitMaurya-16/DSA/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/RohitMaurya-16/DSA/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/RohitMaurya-16/DSA/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
