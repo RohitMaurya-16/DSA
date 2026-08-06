@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/RohitMaurya-16/DSA/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/RohitMaurya-16/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/RohitMaurya-16/DSA/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/RohitMaurya-16/DSA/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/RohitMaurya-16/DSA/tree/master/0396-rotate-function) |
 | [0518-coin-change-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0518-coin-change-ii) |
 | [0788-rotated-digits](https://github.com/RohitMaurya-16/DSA/tree/master/0788-rotated-digits) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/RohitMaurya-16/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/RohitMaurya-16/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/RohitMaurya-16/DSA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/RohitMaurya-16/DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/RohitMaurya-16/DSA/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/RohitMaurya-16/DSA/tree/master/0881-boats-to-save-people) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/RohitMaurya-16/DSA/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/RohitMaurya-16/DSA/tree/master/0065-valid-number) |
 | [0344-reverse-string](https://github.com/RohitMaurya-16/DSA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/RohitMaurya-16/DSA/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/RohitMaurya-16/DSA/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/RohitMaurya-16/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
