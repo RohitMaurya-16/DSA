@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RohitMaurya-16/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RohitMaurya-16/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/RohitMaurya-16/DSA/tree/master/1512-number-of-good-pairs) |
+| [1603-design-parking-system](https://github.com/RohitMaurya-16/DSA/tree/master/1603-design-parking-system) |
 | [2833-furthest-point-from-origin](https://github.com/RohitMaurya-16/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Quickselect
 |  |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/RohitMaurya-16/DSA/tree/master/1603-design-parking-system) |
 | [1914-cyclically-rotating-a-grid](https://github.com/RohitMaurya-16/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/RohitMaurya-16/DSA/tree/master/1929-concatenation-of-array) |
 ## String Matching
@@ -360,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/RohitMaurya-16/DSA/tree/master/0912-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/RohitMaurya-16/DSA/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
