@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/RohitMaurya-16/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/RohitMaurya-16/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/RohitMaurya-16/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/RohitMaurya-16/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RohitMaurya-16/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/RohitMaurya-16/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RohitMaurya-16/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/RohitMaurya-16/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RohitMaurya-16/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/RohitMaurya-16/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/RohitMaurya-16/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RohitMaurya-16/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/RohitMaurya-16/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/RohitMaurya-16/DSA/tree/master/0414-third-maximum-number) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RohitMaurya-16/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/RohitMaurya-16/DSA/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/RohitMaurya-16/DSA/tree/master/0065-valid-number) |
+| [0242-valid-anagram](https://github.com/RohitMaurya-16/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RohitMaurya-16/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/RohitMaurya-16/DSA/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0680-valid-palindrome-ii) |
