@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/RohitMaurya-16/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/RohitMaurya-16/DSA/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/RohitMaurya-16/DSA/tree/master/1603-design-parking-system) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/RohitMaurya-16/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2833-furthest-point-from-origin](https://github.com/RohitMaurya-16/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Quickselect
 |  |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/RohitMaurya-16/DSA/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/RohitMaurya-16/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/RohitMaurya-16/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/RohitMaurya-16/DSA/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2833-furthest-point-from-origin](https://github.com/RohitMaurya-16/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Matrix
