@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/RohitMaurya-16/DSA/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/RohitMaurya-16/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/RohitMaurya-16/DSA/tree/master/0724-find-pivot-index) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/RohitMaurya-16/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RohitMaurya-16/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/RohitMaurya-16/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/RohitMaurya-16/DSA/tree/master/0875-koko-eating-bananas) |
@@ -95,12 +96,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RohitMaurya-16/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/RohitMaurya-16/DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/RohitMaurya-16/DSA/tree/master/0455-assign-cookies) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/RohitMaurya-16/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0881-boats-to-save-people](https://github.com/RohitMaurya-16/DSA/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/RohitMaurya-16/DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RohitMaurya-16/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/RohitMaurya-16/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/RohitMaurya-16/DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/RohitMaurya-16/DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/RohitMaurya-16/DSA/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/RohitMaurya-16/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0881-boats-to-save-people](https://github.com/RohitMaurya-16/DSA/tree/master/0881-boats-to-save-people) |
 ## Breadth-First Search
 |  |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RohitMaurya-16/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/RohitMaurya-16/DSA/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/RohitMaurya-16/DSA/tree/master/0704-binary-search) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/RohitMaurya-16/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RohitMaurya-16/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/RohitMaurya-16/DSA/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/RohitMaurya-16/DSA/tree/master/1095-find-in-mountain-array) |
