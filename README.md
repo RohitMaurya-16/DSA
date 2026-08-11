@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RohitMaurya-16/DSA/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/RohitMaurya-16/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/RohitMaurya-16/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/RohitMaurya-16/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/RohitMaurya-16/DSA/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/RohitMaurya-16/DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/RohitMaurya-16/DSA/tree/master/0455-assign-cookies) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RohitMaurya-16/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RohitMaurya-16/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/RohitMaurya-16/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/RohitMaurya-16/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RohitMaurya-16/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/RohitMaurya-16/DSA/tree/master/1512-number-of-good-pairs) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/RohitMaurya-16/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RohitMaurya-16/DSA/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/RohitMaurya-16/DSA/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/RohitMaurya-16/DSA/tree/master/0342-power-of-four) |
+| [0380-insert-delete-getrandom-o1](https://github.com/RohitMaurya-16/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/RohitMaurya-16/DSA/tree/master/0396-rotate-function) |
 | [0507-perfect-number](https://github.com/RohitMaurya-16/DSA/tree/master/0507-perfect-number) |
 | [0788-rotated-digits](https://github.com/RohitMaurya-16/DSA/tree/master/0788-rotated-digits) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/RohitMaurya-16/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [1603-design-parking-system](https://github.com/RohitMaurya-16/DSA/tree/master/1603-design-parking-system) |
 ## Geometry
 |  |
@@ -406,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/RohitMaurya-16/DSA/tree/master/0149-max-points-on-a-line) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/RohitMaurya-16/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
