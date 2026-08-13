@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/RohitMaurya-16/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/RohitMaurya-16/DSA/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/RohitMaurya-16/DSA/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/RohitMaurya-16/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/RohitMaurya-16/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RohitMaurya-16/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RohitMaurya-16/DSA/tree/master/0268-missing-number) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/RohitMaurya-16/DSA/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/RohitMaurya-16/DSA/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/RohitMaurya-16/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/RohitMaurya-16/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RohitMaurya-16/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RohitMaurya-16/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/RohitMaurya-16/DSA/tree/master/0392-is-subsequence) |
