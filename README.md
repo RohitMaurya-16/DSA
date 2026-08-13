@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/RohitMaurya-16/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/RohitMaurya-16/DSA/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/RohitMaurya-16/DSA/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/RohitMaurya-16/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/RohitMaurya-16/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/RohitMaurya-16/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RohitMaurya-16/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RohitMaurya-16/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/RohitMaurya-16/DSA/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/RohitMaurya-16/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/RohitMaurya-16/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/RohitMaurya-16/DSA/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/RohitMaurya-16/DSA/tree/master/0202-happy-number) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/RohitMaurya-16/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/RohitMaurya-16/DSA/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/RohitMaurya-16/DSA/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/RohitMaurya-16/DSA/tree/master/1672-richest-customer-wealth) |
 | [1914-cyclically-rotating-a-grid](https://github.com/RohitMaurya-16/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RohitMaurya-16/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
