@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/RohitMaurya-16/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/RohitMaurya-16/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/RohitMaurya-16/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/RohitMaurya-16/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RohitMaurya-16/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/RohitMaurya-16/DSA/tree/master/0066-plus-one) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/RohitMaurya-16/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/RohitMaurya-16/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/RohitMaurya-16/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RohitMaurya-16/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/RohitMaurya-16/DSA/tree/master/0289-game-of-life) |
 | [1672-richest-customer-wealth](https://github.com/RohitMaurya-16/DSA/tree/master/1672-richest-customer-wealth) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RohitMaurya-16/DSA/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/RohitMaurya-16/DSA/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/RohitMaurya-16/DSA/tree/master/0289-game-of-life) |
 | [1603-design-parking-system](https://github.com/RohitMaurya-16/DSA/tree/master/1603-design-parking-system) |
