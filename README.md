@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RohitMaurya-16/DSA/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/RohitMaurya-16/DSA/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RohitMaurya-16/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/RohitMaurya-16/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/RohitMaurya-16/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/RohitMaurya-16/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0045-jump-game-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/RohitMaurya-16/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RohitMaurya-16/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RohitMaurya-16/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/RohitMaurya-16/DSA/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/RohitMaurya-16/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/RohitMaurya-16/DSA/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/RohitMaurya-16/DSA/tree/master/0202-happy-number) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/RohitMaurya-16/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/RohitMaurya-16/DSA/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/RohitMaurya-16/DSA/tree/master/1672-richest-customer-wealth) |
 | [1914-cyclically-rotating-a-grid](https://github.com/RohitMaurya-16/DSA/tree/master/1914-cyclically-rotating-a-grid) |
