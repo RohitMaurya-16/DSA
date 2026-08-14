@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/RohitMaurya-16/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1914-cyclically-rotating-a-grid](https://github.com/RohitMaurya-16/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/RohitMaurya-16/DSA/tree/master/1929-concatenation-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/RohitMaurya-16/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/RohitMaurya-16/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2951-find-the-peaks](https://github.com/RohitMaurya-16/DSA/tree/master/2951-find-the-peaks) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RohitMaurya-16/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/RohitMaurya-16/DSA/tree/master/0289-game-of-life) |
 | [1672-richest-customer-wealth](https://github.com/RohitMaurya-16/DSA/tree/master/1672-richest-customer-wealth) |
 | [1914-cyclically-rotating-a-grid](https://github.com/RohitMaurya-16/DSA/tree/master/1914-cyclically-rotating-a-grid) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/RohitMaurya-16/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RohitMaurya-16/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Stack
 |  |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/RohitMaurya-16/DSA/tree/master/1603-design-parking-system) |
 | [1914-cyclically-rotating-a-grid](https://github.com/RohitMaurya-16/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/RohitMaurya-16/DSA/tree/master/1929-concatenation-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/RohitMaurya-16/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 ## String Matching
 |  |
 | ------- |
