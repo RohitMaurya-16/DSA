@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/RohitMaurya-16/DSA/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/RohitMaurya-16/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0876-middle-of-the-linked-list](https://github.com/RohitMaurya-16/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/RohitMaurya-16/DSA/tree/master/0881-boats-to-save-people) |
 ## Breadth-First Search
 |  |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/RohitMaurya-16/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/RohitMaurya-16/DSA/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/RohitMaurya-16/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RohitMaurya-16/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Number Theory
 |  |
