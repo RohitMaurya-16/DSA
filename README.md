@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/RohitMaurya-16/DSA/tree/master/0396-rotate-function) |
 | [0507-perfect-number](https://github.com/RohitMaurya-16/DSA/tree/master/0507-perfect-number) |
 | [0788-rotated-digits](https://github.com/RohitMaurya-16/DSA/tree/master/0788-rotated-digits) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RohitMaurya-16/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RohitMaurya-16/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/RohitMaurya-16/DSA/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/RohitMaurya-16/DSA/tree/master/1952-three-divisors) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/RohitMaurya-16/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/RohitMaurya-16/DSA/tree/master/0141-linked-list-cycle) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RohitMaurya-16/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Number Theory
 |  |
 | ------- |
