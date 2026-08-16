@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/RohitMaurya-16/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/RohitMaurya-16/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RohitMaurya-16/DSA/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/RohitMaurya-16/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/RohitMaurya-16/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RohitMaurya-16/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/RohitMaurya-16/DSA/tree/master/0344-reverse-string) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/RohitMaurya-16/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RohitMaurya-16/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RohitMaurya-16/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/RohitMaurya-16/DSA/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/RohitMaurya-16/DSA/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/RohitMaurya-16/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/RohitMaurya-16/DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/RohitMaurya-16/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/RohitMaurya-16/DSA/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/RohitMaurya-16/DSA/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/RohitMaurya-16/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RohitMaurya-16/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/RohitMaurya-16/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/RohitMaurya-16/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RohitMaurya-16/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RohitMaurya-16/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RohitMaurya-16/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
