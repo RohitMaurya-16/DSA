@@ -11,7 +11,7 @@
 class Solution {
     public boolean isPalindrome(ListNode head) {
         // boolean bool=true;
-        int k=0;
+        // int k=0;
         ListNode node=null;
         ListNode curr=head;
 
