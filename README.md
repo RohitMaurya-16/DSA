@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RohitMaurya-16/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/RohitMaurya-16/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/RohitMaurya-16/DSA/tree/master/1672-richest-customer-wealth) |
+| [1701-average-waiting-time](https://github.com/RohitMaurya-16/DSA/tree/master/1701-average-waiting-time) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RohitMaurya-16/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/RohitMaurya-16/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1914-cyclically-rotating-a-grid](https://github.com/RohitMaurya-16/DSA/tree/master/1914-cyclically-rotating-a-grid) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/RohitMaurya-16/DSA/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/RohitMaurya-16/DSA/tree/master/0289-game-of-life) |
 | [1603-design-parking-system](https://github.com/RohitMaurya-16/DSA/tree/master/1603-design-parking-system) |
+| [1701-average-waiting-time](https://github.com/RohitMaurya-16/DSA/tree/master/1701-average-waiting-time) |
 | [1914-cyclically-rotating-a-grid](https://github.com/RohitMaurya-16/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/RohitMaurya-16/DSA/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/RohitMaurya-16/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
