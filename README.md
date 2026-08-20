@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/RohitMaurya-16/DSA/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/RohitMaurya-16/DSA/tree/master/1952-three-divisors) |
 | [3783-mirror-distance-of-an-integer](https://github.com/RohitMaurya-16/DSA/tree/master/3783-mirror-distance-of-an-integer) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/RohitMaurya-16/DSA/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/RohitMaurya-16/DSA/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/RohitMaurya-16/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RohitMaurya-16/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/RohitMaurya-16/DSA/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Memoization
 |  |
 | ------- |
