@@ -1,0 +1,27 @@
+import java.util.List;
+
+class Solution {
+    public String replaceWords(List<String> dictionary, String sentence) {
+       
+       String[] words = sentence.split(" ");
+       int n = words.length;
+
+       
+       for(int i = 0; i < dictionary.size(); i++)
+       {
+        
+        for(int j = 0; j < n; j++)
+        {
+            
+            if(words[j].startsWith(dictionary.get(i)))
+            {
+             
+                words[j] = dictionary.get(i);
+            }
+        }
+       }
+
+       // Recombine the array back into a single string
+       return String.join(" ", words);
+    }
+}
