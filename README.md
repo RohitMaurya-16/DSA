@@ -561,4 +561,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/RohitMaurya-16/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/RohitMaurya-16/DSA/tree/master/0648-replace-words) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/RohitMaurya-16/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
