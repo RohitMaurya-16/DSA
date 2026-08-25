@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/RohitMaurya-16/DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/RohitMaurya-16/DSA/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/RohitMaurya-16/DSA/tree/master/0912-sort-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/RohitMaurya-16/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1095-find-in-mountain-array](https://github.com/RohitMaurya-16/DSA/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RohitMaurya-16/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RohitMaurya-16/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/RohitMaurya-16/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/RohitMaurya-16/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/RohitMaurya-16/DSA/tree/master/0648-replace-words) |
+| [0930-binary-subarrays-with-sum](https://github.com/RohitMaurya-16/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RohitMaurya-16/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/RohitMaurya-16/DSA/tree/master/1512-number-of-good-pairs) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/RohitMaurya-16/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RohitMaurya-16/DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/RohitMaurya-16/DSA/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/RohitMaurya-16/DSA/tree/master/0930-binary-subarrays-with-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -571,4 +574,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/RohitMaurya-16/DSA/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/RohitMaurya-16/DSA/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/RohitMaurya-16/DSA/tree/master/0511-game-play-analysis-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/RohitMaurya-16/DSA/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
