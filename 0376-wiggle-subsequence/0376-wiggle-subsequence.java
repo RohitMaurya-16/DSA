@@ -1,5 +1,4 @@
 
-
 class Solution {
     public int wiggleMaxLength(int[] nums) {
         int n = nums.length;
