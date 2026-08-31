@@ -13,4 +13,5 @@ FROM Signups s
 LEFT JOIN Confirmations c ON s.user_id = c.user_id
 GROUP BY s.user_id;
 
-# if data is null it will add as 0
+# if data is null it will add as 0 
+
