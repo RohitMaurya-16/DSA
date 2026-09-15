@@ -1,0 +1,20 @@
+# Write your MySQL query statement below
+WITH DailyRevenue AS (   # with and as create temporary result form query
+    SELECT visited_on, SUM(amount) AS amount
+    FROM Customer
+    GROUP BY visited_on
+)
+
+SELECT 
+    d1.visited_on,
+    SUM(d2.amount) AS amount,
+    ROUND(AVG(d2.amount), 2) AS average_amount
+FROM DailyRevenue d1
+JOIN DailyRevenue d2 
+    ON d2.visited_on BETWEEN DATE_SUB(d1.visited_on, INTERVAL 6 DAY) AND d1.visited_on
+GROUP BY d1.visited_on
+
+HAVING COUNT(d2.visited_on) = 7
+ORDER BY d1.visited_on;
+
+# between and AND check values between that range
