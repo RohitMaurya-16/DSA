@@ -19,7 +19,7 @@ class Solution {
         
         PriorityQueue<Integer> result= new PriorityQueue<>();
         q.offer(root);
-        int max=Integer.MAX_VALUE;
+        int max=0;
         while(!q.isEmpty())
         {   
             int n=q.size();
