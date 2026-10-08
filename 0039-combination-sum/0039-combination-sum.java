@@ -1,5 +1,5 @@
 class Solution {
-    List<List<Integer>> res= new ArrayList<>();
+    List<List<Integer>> res;
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         
         res=new ArrayList<>();
