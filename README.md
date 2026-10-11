@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/RohitMaurya-16/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/RohitMaurya-16/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/RohitMaurya-16/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/RohitMaurya-16/DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RohitMaurya-16/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/RohitMaurya-16/DSA/tree/master/0118-pascals-triangle) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/RohitMaurya-16/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/RohitMaurya-16/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/RohitMaurya-16/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/RohitMaurya-16/DSA/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/RohitMaurya-16/DSA/tree/master/0257-binary-tree-paths) |
 ## String
 |  |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/RohitMaurya-16/DSA/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/RohitMaurya-16/DSA/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/RohitMaurya-16/DSA/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/RohitMaurya-16/DSA/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/RohitMaurya-16/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RohitMaurya-16/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RohitMaurya-16/DSA/tree/master/0242-valid-anagram) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RohitMaurya-16/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RohitMaurya-16/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RohitMaurya-16/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/RohitMaurya-16/DSA/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/RohitMaurya-16/DSA/tree/master/0289-game-of-life) |
 | [1672-richest-customer-wealth](https://github.com/RohitMaurya-16/DSA/tree/master/1672-richest-customer-wealth) |
 | [1914-cyclically-rotating-a-grid](https://github.com/RohitMaurya-16/DSA/tree/master/1914-cyclically-rotating-a-grid) |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/RohitMaurya-16/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RohitMaurya-16/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/RohitMaurya-16/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RohitMaurya-16/DSA/tree/master/0101-symmetric-tree) |
