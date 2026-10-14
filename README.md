@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/RohitMaurya-16/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/RohitMaurya-16/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RohitMaurya-16/DSA/tree/master/0198-house-robber) |
+| [0212-word-search-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/RohitMaurya-16/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/RohitMaurya-16/DSA/tree/master/0238-product-of-array-except-self) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/RohitMaurya-16/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/RohitMaurya-16/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RohitMaurya-16/DSA/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/RohitMaurya-16/DSA/tree/master/0257-binary-tree-paths) |
 ## String
 |  |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/RohitMaurya-16/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RohitMaurya-16/DSA/tree/master/0205-isomorphic-strings) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/RohitMaurya-16/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/RohitMaurya-16/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/RohitMaurya-16/DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/RohitMaurya-16/DSA/tree/master/0344-reverse-string) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RohitMaurya-16/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RohitMaurya-16/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/RohitMaurya-16/DSA/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/RohitMaurya-16/DSA/tree/master/0289-game-of-life) |
 | [1672-richest-customer-wealth](https://github.com/RohitMaurya-16/DSA/tree/master/1672-richest-customer-wealth) |
 | [1914-cyclically-rotating-a-grid](https://github.com/RohitMaurya-16/DSA/tree/master/1914-cyclically-rotating-a-grid) |
@@ -602,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/RohitMaurya-16/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/RohitMaurya-16/DSA/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/RohitMaurya-16/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/RohitMaurya-16/DSA/tree/master/0648-replace-words) |
 ## Database
